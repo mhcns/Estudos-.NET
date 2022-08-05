@@ -1,0 +1,13 @@
+C:\Users\lasco\dotnetProjects\StringReader\bin\Debug\netcoreapp3.1\StringReader.exe
+C:\Users\lasco\dotnetProjects\StringReader\bin\Debug\netcoreapp3.1\StringReader.deps.json
+C:\Users\lasco\dotnetProjects\StringReader\bin\Debug\netcoreapp3.1\StringReader.runtimeconfig.json
+C:\Users\lasco\dotnetProjects\StringReader\bin\Debug\netcoreapp3.1\StringReader.runtimeconfig.dev.json
+C:\Users\lasco\dotnetProjects\StringReader\bin\Debug\netcoreapp3.1\StringReader.dll
+C:\Users\lasco\dotnetProjects\StringReader\bin\Debug\netcoreapp3.1\StringReader.pdb
+C:\Users\lasco\dotnetProjects\StringReader\obj\Debug\netcoreapp3.1\StringReader.csprojAssemblyReference.cache
+C:\Users\lasco\dotnetProjects\StringReader\obj\Debug\netcoreapp3.1\StringReader.AssemblyInfoInputs.cache
+C:\Users\lasco\dotnetProjects\StringReader\obj\Debug\netcoreapp3.1\StringReader.AssemblyInfo.cs
+C:\Users\lasco\dotnetProjects\StringReader\obj\Debug\netcoreapp3.1\StringReader.csproj.CoreCompileInputs.cache
+C:\Users\lasco\dotnetProjects\StringReader\obj\Debug\netcoreapp3.1\StringReader.dll
+C:\Users\lasco\dotnetProjects\StringReader\obj\Debug\netcoreapp3.1\StringReader.pdb
+C:\Users\lasco\dotnetProjects\StringReader\obj\Debug\netcoreapp3.1\StringReader.genruntimeconfig.cache

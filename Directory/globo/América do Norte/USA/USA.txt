@@ -1,0 +1,4 @@
+Vermelho
+Branco
+Azul
+Estrelas

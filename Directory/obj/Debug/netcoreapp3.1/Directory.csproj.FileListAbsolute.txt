@@ -1,0 +1,13 @@
+C:\Users\lasco\dotnetProjects\Directory\bin\Debug\netcoreapp3.1\Directory.exe
+C:\Users\lasco\dotnetProjects\Directory\bin\Debug\netcoreapp3.1\Directory.deps.json
+C:\Users\lasco\dotnetProjects\Directory\bin\Debug\netcoreapp3.1\Directory.runtimeconfig.json
+C:\Users\lasco\dotnetProjects\Directory\bin\Debug\netcoreapp3.1\Directory.runtimeconfig.dev.json
+C:\Users\lasco\dotnetProjects\Directory\bin\Debug\netcoreapp3.1\Directory.dll
+C:\Users\lasco\dotnetProjects\Directory\bin\Debug\netcoreapp3.1\Directory.pdb
+C:\Users\lasco\dotnetProjects\Directory\obj\Debug\netcoreapp3.1\Directory.csprojAssemblyReference.cache
+C:\Users\lasco\dotnetProjects\Directory\obj\Debug\netcoreapp3.1\Directory.AssemblyInfoInputs.cache
+C:\Users\lasco\dotnetProjects\Directory\obj\Debug\netcoreapp3.1\Directory.AssemblyInfo.cs
+C:\Users\lasco\dotnetProjects\Directory\obj\Debug\netcoreapp3.1\Directory.csproj.CoreCompileInputs.cache
+C:\Users\lasco\dotnetProjects\Directory\obj\Debug\netcoreapp3.1\Directory.dll
+C:\Users\lasco\dotnetProjects\Directory\obj\Debug\netcoreapp3.1\Directory.pdb
+C:\Users\lasco\dotnetProjects\Directory\obj\Debug\netcoreapp3.1\Directory.genruntimeconfig.cache

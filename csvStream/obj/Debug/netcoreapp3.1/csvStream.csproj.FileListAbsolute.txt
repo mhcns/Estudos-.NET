@@ -1,0 +1,13 @@
+C:\Users\lasco\dotnetProjects\csvStream\bin\Debug\netcoreapp3.1\csvStream.exe
+C:\Users\lasco\dotnetProjects\csvStream\bin\Debug\netcoreapp3.1\csvStream.deps.json
+C:\Users\lasco\dotnetProjects\csvStream\bin\Debug\netcoreapp3.1\csvStream.runtimeconfig.json
+C:\Users\lasco\dotnetProjects\csvStream\bin\Debug\netcoreapp3.1\csvStream.runtimeconfig.dev.json
+C:\Users\lasco\dotnetProjects\csvStream\bin\Debug\netcoreapp3.1\csvStream.dll
+C:\Users\lasco\dotnetProjects\csvStream\bin\Debug\netcoreapp3.1\csvStream.pdb
+C:\Users\lasco\dotnetProjects\csvStream\obj\Debug\netcoreapp3.1\csvStream.csprojAssemblyReference.cache
+C:\Users\lasco\dotnetProjects\csvStream\obj\Debug\netcoreapp3.1\csvStream.AssemblyInfoInputs.cache
+C:\Users\lasco\dotnetProjects\csvStream\obj\Debug\netcoreapp3.1\csvStream.AssemblyInfo.cs
+C:\Users\lasco\dotnetProjects\csvStream\obj\Debug\netcoreapp3.1\csvStream.csproj.CoreCompileInputs.cache
+C:\Users\lasco\dotnetProjects\csvStream\obj\Debug\netcoreapp3.1\csvStream.dll
+C:\Users\lasco\dotnetProjects\csvStream\obj\Debug\netcoreapp3.1\csvStream.pdb
+C:\Users\lasco\dotnetProjects\csvStream\obj\Debug\netcoreapp3.1\csvStream.genruntimeconfig.cache
